@@ -32,21 +32,24 @@
 
 ## Apartado 4
 
-<img width="1296" height="683" alt="image" src="https://github.com/user-attachments/assets/cf760d64-56d2-4208-9e21-a930fe3e411e" />
+<img width="851" height="432" alt="image" src="https://github.com/user-attachments/assets/c94ea5f9-b3f3-4f5e-8a80-73d788151edf" />
+
+<img width="871" height="653" alt="image" src="https://github.com/user-attachments/assets/d9cb1052-886d-4969-a289-5cb85c1376c4" />
+
 
 ## Apartado 5
 
-<img width="881" height="480" alt="image" src="https://github.com/user-attachments/assets/b3cc4ac1-30cc-4282-a936-284fba083d6b" />
+<img width="871" height="653" alt="image" src="https://github.com/user-attachments/assets/10811044-6bd5-42a3-98c2-2632c3ee857f" />
 
-<img width="881" height="370" alt="image" src="https://github.com/user-attachments/assets/5db17e7f-dcf7-46b7-99db-cdec0c01dafa" />
 
 ## Apartado 6
 
-<img width="881" height="611" alt="image" src="https://github.com/user-attachments/assets/6e03b2ea-2f8e-4bb3-90b5-d602ca5c28d0" />
+<img width="871" height="657" alt="image" src="https://github.com/user-attachments/assets/9ad2cc5d-a766-4251-aee3-0155e562bce9" />
 
 ## Apartado 7
 
-<img width="881" height="479" alt="image" src="https://github.com/user-attachments/assets/583cf50c-9f04-4ae5-b7ea-93c927e147d5" />
+<img width="865" height="475" alt="image" src="https://github.com/user-attachments/assets/5c8a0176-32cf-4349-ac15-f015fa0df201" />
+
 
 
 
