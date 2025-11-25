@@ -40,6 +40,10 @@
 
 <img width="881" height="370" alt="image" src="https://github.com/user-attachments/assets/5db17e7f-dcf7-46b7-99db-cdec0c01dafa" />
 
+## Apartado 6
+
+<img width="881" height="611" alt="image" src="https://github.com/user-attachments/assets/6e03b2ea-2f8e-4bb3-90b5-d602ca5c28d0" />
+
 
 
 
