@@ -10,6 +10,16 @@
 
 <img width="952" height="324" alt="image" src="https://github.com/user-attachments/assets/07507dda-c757-4b94-ab01-689176d2a112" />
 
+## Apartado 1
+
+<img width="952" height="544" alt="image" src="https://github.com/user-attachments/assets/859b3451-2317-489f-b46f-d42636f62f18" />
+
+<img width="959" height="709" alt="image" src="https://github.com/user-attachments/assets/6916e937-13a4-4f46-ac6c-b27f554bf7bb" />
+
+<img width="959" height="709" alt="image" src="https://github.com/user-attachments/assets/f57601fd-23b9-46dc-b673-2dfb363ca52a" />
+
+<img width="1305" height="612" alt="image" src="https://github.com/user-attachments/assets/8b19102b-3466-48a4-b244-c39040abe38c" />
+
 
 
 
