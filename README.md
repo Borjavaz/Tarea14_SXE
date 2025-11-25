@@ -26,6 +26,9 @@
 
 <img width="1302" height="659" alt="image" src="https://github.com/user-attachments/assets/e3fd405e-c097-4768-a37c-589e36e848e9" />
 
+## Apartado 3
+
+<img width="1297" height="627" alt="image" src="https://github.com/user-attachments/assets/ebd2d5d6-181d-477d-82f3-6c2e919aae45" />
 
 
 
