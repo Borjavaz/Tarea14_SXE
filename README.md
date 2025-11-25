@@ -34,6 +34,13 @@
 
 <img width="1296" height="683" alt="image" src="https://github.com/user-attachments/assets/cf760d64-56d2-4208-9e21-a930fe3e411e" />
 
+## Apartado 5
+
+<img width="881" height="480" alt="image" src="https://github.com/user-attachments/assets/b3cc4ac1-30cc-4282-a936-284fba083d6b" />
+
+<img width="881" height="370" alt="image" src="https://github.com/user-attachments/assets/5db17e7f-dcf7-46b7-99db-cdec0c01dafa" />
+
+
 
 
 
