@@ -44,7 +44,9 @@
 
 <img width="881" height="611" alt="image" src="https://github.com/user-attachments/assets/6e03b2ea-2f8e-4bb3-90b5-d602ca5c28d0" />
 
+## Apartado 7
 
+<img width="881" height="479" alt="image" src="https://github.com/user-attachments/assets/583cf50c-9f04-4ae5-b7ea-93c927e147d5" />
 
 
 
